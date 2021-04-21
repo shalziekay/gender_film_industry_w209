@@ -25,3 +25,5 @@ We then put together three datasets, which we used to create the data visualizat
 3. Box Office Revenue - This dataset contains information about each film and how much it made in box office revenue ($).
 
 In this repo are the Tableau workbooks used to generate the dashboards and visualizations, as well as the HTML/CSS files used to see the full website with the Tableau dashboards embedded in them.
+
+The website is also hosted through the ISchool: apps-spring21.ischool.berkeley.edu/~anushamohan/w209
